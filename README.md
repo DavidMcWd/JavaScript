@@ -1,2 +1,2 @@
 # JavaScript
-Repository for learning JavaScript fundamentals 
+Repository for learning JavaScript fundamentals (Odin Project)
